@@ -18,7 +18,7 @@
 }
 .header-bottom{
     height: 120px;
-    background-color: red;
+    background-color: white;
 }
 .header-top-left{
     width: 50%;
@@ -32,14 +32,14 @@
     float: left;
     background-color: lightgrey;
 }
-h1 {
-    color:black;
+h3 {
+    color:#33475b;
     float: left;
     margin-right: 30px;
-    margin-top: 20px;
+    margin-top: 28px;
 }
-h3{
-    color:black;
+h4{
+    color:#33475b;
     float: left;
     margin-top: 30px;
 
@@ -85,5 +85,34 @@ footer{
     width: 50%;
     height: 100%;
     float:left;
-    background-color: lightblue;
+    background-color: white;
+}
+.header-bottom-left img{
+    margin-top: 30px;
+}
+
+.header-bottom-right{
+    width: 50%;
+    height: 100%;
+    float: left;
+    background-color: white;
+}
+#main-menu{
+    list-style-type: none;
+
+}
+#main-menu li{
+    display: inline-block;
+
+}
+#main-menu li a {
+    color :#33475b;
+    text-decoration: none;
+    display: inline-block;
+    height: 200px;
+    line-height: 100px;
+    padding-right: 30px;
+    font-size: 20px;
+    font-weight: 700;
+
 }
