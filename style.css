@@ -4,9 +4,9 @@
     box-sizing: border-box;
 }
 
-.uno {
+.header-top {
     height: 100px;
-    background-color: blue;
+    background-color: lightgrey;
 }
 
 
@@ -14,7 +14,7 @@
     width:1080px;
     margin: auto;
     height: 100%;
-    background-color: black;
+    background-color: green;
 }
 .header-bottom{
     height: 120px;
@@ -24,24 +24,25 @@
     width: 50%;
     height: 100%;
     float:left;
-    background-color: yellow;
+    background-color: lightgrey;
 }
 .header-top-right{
     width: 50%;
     height: 100%;
     float: left;
-    background-color: green;
+    background-color: lightgrey;
 }
 h1 {
-    color:white;
+    color:black;
     float: left;
     margin-right: 30px;
+    margin-top: 20px;
 }
 h3{
-    color:white;
-    display: inline-block;
+    color:black;
     float: left;
-    
+    margin-top: 30px;
+
 }
 .fa-globe{
     background-color:white;
@@ -50,25 +51,39 @@ h3{
     margin: 6px 0;
 
 }
-.cta-container{
-    text-align: right;
-    width: 35%;
-    float: left;
-    height: 100%;
-}
+
 .btn{
     padding:10px;
     border-radius: 5px;
     border: 1px solid #4e8cb6;
-    color: white;
+    color: orange;
     text-transform: uppercase;
     text-decoration: none;
     font-size: 14px;
     border-color: orange;
+    float: right;
+    margin-top: 20px;
+    margin-right: 20px;
 
 }
 .btn-primary {
     background-color: orange;
     border-color: orange;
+    float: right;
+    color:white;
 
+}
+#parte-centrale{
+    background-color: grey;
+    height: 500px;
+}
+footer{
+    background-color: orange;
+    height: 300px;
+}
+.header-bottom-left{
+    width: 50%;
+    height: 100%;
+    float:left;
+    background-color: lightblue;
 }
