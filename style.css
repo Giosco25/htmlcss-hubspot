@@ -14,7 +14,7 @@
     width:1080px;
     margin: auto;
     height: 100%;
-    background-color: #f5f8fa;
+    background-color: green;
 }
 .header-bottom{
     height: 120px;
@@ -59,19 +59,19 @@ h4{
     padding:10px;
     border-radius: 5px;
     border: 1px solid #4e8cb6;
-    color: orange;
+    color: #ff7a59;
     text-transform: uppercase;
     text-decoration: none;
     font-size: 14px;
-    border-color: orange;
+    border-color: #ff7a59;
     display: inline-block;
     margin-top: 20px;
     margin-right: 10px;
 
 }
 .btn-primary {
-    background-color: orange;
-    border-color: orange;
+    background-color: #ff7a59;
+    border-color: #ff7a59;
     color:white;
 
 }
