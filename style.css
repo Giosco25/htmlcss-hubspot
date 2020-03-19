@@ -80,7 +80,7 @@ h4{
     margin-right: 0;
 }
 #parte-centrale{
-    background-color: grey;
+    background-image: linear-gradient(to top right, #fef8f0, #fff3ee, #fff1ee);
     height: 500px;
 }
 footer{
@@ -119,7 +119,6 @@ footer{
     display: inline-block;
     height: 200px;
     line-height: 100px;
-    padding-right: 10px;
     font-size: 20px;
     font-weight: 700;
 
@@ -131,27 +130,27 @@ footer{
     margin-right: 10px;
 }
 h1{
-    line-height: 10;
     font-size: 30px;
     margin-left: 30px;
+    padding-top: 60px;
+    padding-bottom: 10px;
 }
 p{
     line-height: 3;
     font-size: 20px;
     padding-left: 22px;
-    margin-top: -60px;
 }
 .parte-centrale-sinistra{
     width: 50%;
     height: 100%;
     float:left;
-    background-color: red;
+    background-image: linear-gradient(to top right, #fef8f0, #fff3ee, #fff1ee);
 }
 .parte-centrale-destra{
     width: 50%;
     height: 100%;
     float: left;
-    background-color: purple;
+    background-image: linear-gradient(to top right, #fef8f0, #fff3ee, #fff1ee);
     text-align: right;
 }
 .parte-centrale-sinistra a{
