@@ -129,13 +129,15 @@ footer{
     margin-right: 10px;
 }
 h1{
-    font-size: 59px;
+    font-size: 42px;
     padding-top: 60px;
     padding-bottom: 10px;
+    color:#33475b;
+    font-family: 'Baloo 2', cursive;
 }
 p{
     line-height: 2;
-    font-size: 24px;
+    font-size: 23px;
 
 }
 .parte-centrale-sinistra{
@@ -154,4 +156,39 @@ p{
 .parte-centrale-sinistra a{
     font-size: 25px;
     padding: 15px;
+}
+.seconda-parte-centrale{
+    height: 700px;
+    background-color: red;
+
+}
+.primo-box-alto{
+    height: 50%;
+    background-color: purple;
+
+}
+.primo-box-alto-uno{
+    width: 40%;
+    height: 100%;
+    background-color: #f5f8fa;
+    float:left;
+}
+.primo-box-alto-uno h1{
+    font-size: 38px;
+    padding-top: 60px;
+    padding-bottom: 10px;
+    color:#33475b;
+    font-family: 'Baloo 2', cursive;
+
+}
+.primo-box-alto-uno p{
+    line-height: 2;
+    font-size: 19px;
+}
+.primo-box-alto-due{
+    width: 60%;
+    height: 100%;
+    background-color: black;
+    float: left;
+
 }
