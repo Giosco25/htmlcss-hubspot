@@ -37,7 +37,6 @@
 h3 {
     color:#33475b;
     display: inline-block;
-    margin-right:10px;
     margin-top: 30px;
 }
 h4{
@@ -130,15 +129,14 @@ footer{
     margin-right: 10px;
 }
 h1{
-    font-size: 30px;
-    margin-left: 30px;
+    font-size: 59px;
     padding-top: 60px;
     padding-bottom: 10px;
 }
 p{
-    line-height: 3;
-    font-size: 20px;
-    padding-left: 22px;
+    line-height: 2;
+    font-size: 24px;
+
 }
 .parte-centrale-sinistra{
     width: 50%;
@@ -154,8 +152,6 @@ p{
     text-align: right;
 }
 .parte-centrale-sinistra a{
-    font-size: 15px;
+    font-size: 25px;
     padding: 15px;
-    margin-left: 30px;
-
 }
