@@ -37,7 +37,7 @@
 h3 {
     color:#33475b;
     display: inline-block;
-    margin-right:30px;
+    margin-right:10px;
     margin-top: 30px;
 }
 h4{
@@ -110,6 +110,7 @@ footer{
 }
 #main-menu li{
     display: inline-block;
+    padding-right: 10px
 
 }
 #main-menu li a {
@@ -118,7 +119,7 @@ footer{
     display: inline-block;
     height: 200px;
     line-height: 100px;
-    padding-right: 30px;
+    padding-right: 10px;
     font-size: 20px;
     font-weight: 700;
 
@@ -128,4 +129,28 @@ footer{
 }
 .fa-search{
     margin-right: 10px;
+}
+h1{
+    line-height: 10;
+    font-size: 30px;
+    margin-left: 30px;
+}
+p{
+    line-height: 3;
+    font-size: 20px;
+    padding-left: 10px;
+    margin-top: -60px;
+}
+.parte-centrale-sinistra{
+    width: 50%;
+    height: 100%;
+    float:left;
+    background-color: red;
+}
+.parte-centrale-destra{
+    width: 50%;
+    height: 100%;
+    float: left;
+    background-color: purple;
+    text-align: right;
 }
