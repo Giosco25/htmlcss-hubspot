@@ -77,6 +77,7 @@ h4{
 }
 .btn-gethub{
     margin-right: 0;
+    font-size: 18px;
 }
 #parte-centrale{
     background-image: linear-gradient(to top right, #fef8f0, #fff3ee, #fff1ee);
@@ -190,6 +191,7 @@ p{
     height: 100%;
     background-color: blue;
     float: left;
+    padding-left: 20px;
 }
 .primo-box-alto-due h1{
     font-size: 36px;
@@ -200,7 +202,7 @@ p{
 }
 .primo-box-alto-due p{
     line-height: 1;
-    font-size: 23px;
+    font-size: 20px;
     color:white;
     padding-bottom: 20px;
 
@@ -215,5 +217,24 @@ p{
 #box-due-menu {
     list-style-type: none;
     color:white;
+    padding-top: 13px;
+    font-size: 18px;
 }
-.box
+#box-due-menu li{
+    display: inline-block;
+    margin-right: 20px
+}
+.btn-get-free{
+    background-color: orange;
+    padding:10px;
+    border-radius: 5px;
+    border: 1px solid #4e8cb6;
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    border-color: white;
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 10px;
+    font-size: 22px;
+}
