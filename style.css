@@ -398,3 +398,102 @@ p{
     width: 25%;
     float:left;
 }
+.terzo-box-basso-sinistra h1{
+    font-size: 31px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    color:white;
+    font-family: 'Baloo 2', cursive;
+    padding-left: 0px;
+    text-align: center;
+
+}
+.terzo-box-basso-sinistra img{
+    padding-left: 100px;
+    padding-bottom: 10px;
+    padding-top: 25px;
+}
+.terzo-box-basso-sinistra p{
+    line-height: 1;
+    font-size: 21px;
+    color:white;
+    text-align: center;
+    padding-left: 20px;
+}
+.terzo-box-basso-sinistra hr{
+    margin-top: 30px;
+}
+.terzo-box-basso-sinistra-due img{
+    padding-left: 100px;
+    padding-bottom: 10px;
+    padding-top: 25px;
+}
+.terzo-box-basso-sinistra-due h1{
+    font-size: 31px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    color:white;
+    font-family: 'Baloo 2', cursive;
+    padding-left: 0px;
+    text-align: center;
+}
+.terzo-box-basso-sinistra-due p{
+    line-height: 1;
+    font-size: 21px;
+    color:white;
+    text-align: center;
+    padding-left: 20px;
+}
+.terzo-box-basso-sinistra-due hr{
+    margin-top: 30px;
+}
+.terzo-box-basso-centrale img{
+    padding-left: 100px;
+    padding-bottom: 10px;
+    padding-top: 25px;
+}
+.terzo-box-basso-centrale h1{
+    font-size: 31px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    color:white;
+    font-family: 'Baloo 2', cursive;
+    padding-left: 0px;
+    text-align: center;
+}
+.terzo-box-basso-centrale p{
+    line-height: 1;
+    font-size: 21px;
+    color:white;
+    text-align: center;
+    padding-left: 20px;
+}
+.terzo-box-basso-centrale hr{
+    margin-top: 30px;
+}
+.terzo-box-basso-destra img{
+    padding-left: 100px;
+    padding-bottom: 10px;
+    padding-top: 25px;
+
+}
+.terzo-box-basso-destra h1{
+    font-size: 31px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    color:white;
+    font-family: 'Baloo 2', cursive;
+    padding-left: 0px;
+    text-align: center;
+}
+.terzo-box-basso-destra p{
+    line-height: 1;
+    font-size: 21px;
+    color:white;
+    text-align: center;
+    padding-left: 20px;
+}
+.terzo-box-basso-destra hr{
+    margin-top: 30px;
+
+}
