@@ -346,17 +346,17 @@ p{
     padding-left: 15px;
 }
 .terzo-box-centrale{
-        height: 850px;
-        background-color: red;
+        height: 700px;
+        background-image: linear-gradient(45deg, #00a4bd, #00bda5);
 }
 .terzo-box-alto{
     height: 35%;
-    background-color: purple;
+    background-image: linear-gradient(45deg, #00a4bd, #00bda5);
 
 }
 .terzo-box-basso{
     height: 65%;
-    background-color: black;
+    background-image: linear-gradient(45deg, #00a4bd, #00bda5);
 }
 .terzo-box-alto h1{
     font-size: 31px;
@@ -376,27 +376,35 @@ p{
 }
 .terzo-box-basso-sinistra{
     height: 100%;
-    background-color: blue;
+    background-image: linear-gradient(45deg, #00a4bd, #00bda5);
     width: 25%;
     float: left;
+    border-right: 1px solid white;
+
 }
 .terzo-box-basso-sinistra-due{
     height: 100%;
-    background-color: yellow;
+    background-image: linear-gradient(45deg, #00a4bd, #00bda5);
     width: 25%;
     float:left;
+    border-right: 1px solid white;
+
 }
 .terzo-box-basso-centrale{
     height: 100%;
-    background-color: gray;
+    background-image: linear-gradient(45deg, #00a4bd, #00bda5);
     width: 25%;
     float:left;
+    border-right: 1px solid white;
+
 }
 .terzo-box-basso-destra{
     height: 100%;
-    background-color: lightblue;
+    background-image: linear-gradient(45deg, #00a4bd, #00bda5);
     width: 25%;
     float:left;
+    border-right: 1px solid white;
+
 }
 .terzo-box-basso-sinistra h1{
     font-size: 31px;
@@ -428,6 +436,7 @@ p{
     padding-bottom: 10px;
     padding-top: 25px;
 }
+
 .terzo-box-basso-sinistra-due h1{
     font-size: 31px;
     padding-top: 0px;
