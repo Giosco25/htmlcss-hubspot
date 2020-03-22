@@ -506,3 +506,61 @@ p{
     margin-top: 30px;
 
 }
+.quarto-box{
+    height: 700px;
+    background-color: white;
+}
+.quarto-box-alto{
+    height: 50%;
+    background-color: yellow;
+
+}
+.quarto-box-alto-uno{
+    width: 40%;
+    height: 100%;
+    background-color: white;
+    float: left;
+}
+.quarto-box-alto-due{
+    width: 60%;
+    height: 100%;
+    background-color: white;
+    float: left;
+
+}
+.quarto-box-alto-uno h1{
+    font-size: 38px;
+    padding-top: 60px;
+    padding-bottom: 10px;
+    color: #33475b;
+    font-family: 'Baloo 2', cursive;
+}
+.quarto-box-alto-uno p{
+    line-height: 2;
+    font-size: 25px;
+    color:black;
+}
+.quarto-box-alto-due img{
+    float: left;
+    width: 31%;
+    padding-left: 25px;
+    padding-top: 80px;
+
+}
+.immagine-due img{
+    padding-left: 25px;
+
+}
+.immagine-tre img{
+    padding-left: 25px;
+
+}
+.immagine-quattro img{
+    padding-left: 25px;
+}
+.immagine-cinque img{
+    padding-left: 25px;
+}
+.immagine-sei img{
+    padding-left: 25px;
+}
